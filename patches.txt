@@ -1,3 +1,35 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-
+return-youtube-dislike
+custom-branding
+enable-wide-searchbar
+always-autorepeat
+disable-fullscreen-panels
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+swipe-controls
+sponsorblock
+remember-video-quality
+seekbar-tapping
+minimized-playback
+amoled
+disable-create-button
+hide-cast-button
+hide-autoplay-button
+premium-heading
+old-quality-layout
+hide-shorts-button
+hide-watermark
+force-vp9-codec
+hdr-auto-brightness
+video-ads
+general-ads
+hide-infocard-suggestions
+minimized-playback-music
+tasteBuilder-remover
+hide-get-premium
+compact-header
+upgrade-button-remover
+music-video-ads
+codecs-unlock
+exclusive-audio-playback
+	
+
